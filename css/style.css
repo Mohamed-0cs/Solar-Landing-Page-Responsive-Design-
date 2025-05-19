@@ -43,9 +43,10 @@ nav li:hover {
 @media (min-width: 360px) and (max-width: 529px) {
   nav {
     width: 100%;
-    font-size: 5px;
+    font-size: 10px;
     justify-content: space-evenly;
-    padding-top: 5px;
+    padding-top: 12px; 
+    /* here  */
   }
   .navLinks {
     gap: 8px;
@@ -57,7 +58,8 @@ nav li:hover {
   nav li,
   nav div,
   nav img {
-    padding: 5px;
+    padding: 2px;
+    /* here */
   }
   nav img{
     width: 25px;
