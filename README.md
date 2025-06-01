@@ -31,7 +31,7 @@ The layout is fully responsive and adapts seamlessly to:
 - Fully based on a Figma design
 
 ## 📁 Folder Structure
-
+---
 Solar-Landing-Page-Responsive-Design-/
 ├── index.html
 ├── css/
@@ -41,8 +41,7 @@ Solar-Landing-Page-Responsive-Design-/
 ├── screenshots/
 │   ├── desktop.png
 │   └── mobile.png
-
-
+---
 
 ## 🧑‍💻 Author
 Mohamed Masoud Raafat  
