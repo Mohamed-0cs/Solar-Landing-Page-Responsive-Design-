@@ -3,7 +3,7 @@
 A responsive landing page built using **HTML5**, **CSS3**, and **Media Queries**, based on a UI design created in **Figma**.
 
 ## 🚀 Live Demo
-[Click here to view the live site]((https://mohamed-0cs.github.io/Solar-Landing-Page-Responsive-Design-/))
+[Click here to view the live site](https://mohamed-0cs.github.io/Solar-Landing-Page-Responsive-Design-/)
 
 ## 🖼️ Figma Design
 [View the original Figma template](https://www.figma.com/design/xlESOD0VgwJNtIIe35nQ9Y/Landing-page-for-Solar-comapny--Community-?node-id=0-1&p=f)
